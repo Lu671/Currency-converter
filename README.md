@@ -1,1 +1,2 @@
-# Currency-converter
+# Simple Currency Converter using GUI
+
